@@ -7,7 +7,7 @@
 \usepackage{amssymb}
 \usepackage{graphicx}
 \begin{document}
-\title{Lab **}
+\title{Lab 05}
 \author{Doran Griffin}
 \affiliation{Partner: * \\
 Phys 212\\
@@ -19,7 +19,7 @@ Fort Hays State University}
 \section{Experimental procedure}
 \section{Equipment}
 \begin{equation}
-a^2+b^2=c^2
+x
 \end{equation}
 \section{Error}
 \section{Analysis}
