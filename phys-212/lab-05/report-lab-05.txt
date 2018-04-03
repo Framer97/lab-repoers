@@ -1,0 +1,29 @@
+\documentclass[aps,prl,preprint,groupedaddress,notitlepage]{revtex4-1}
+\bibliographystyle{apsrev}
+\usepackage[utf8]{inputenc}
+
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\begin{document}
+\title{Lab **}
+\author{Doran Griffin}
+\affiliation{Partner: * \\
+Phys 212\\
+Department of Physics\\
+Fort Hays State University}
+\date{\today}
+\maketitle
+\section{Introduction}
+\section{Experimental procedure}
+\section{Equipment}
+\begin{equation}
+a^2+b^2=c^2
+\end{equation}
+\section{Error}
+\section{Analysis}
+\section{Results}
+\pagebreak
+\section{Questions}
+\end{document}
